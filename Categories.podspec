@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "Categories"
+  s.name         = "YYQCategories"
   s.version      = "0.0.1"
   s.summary      = "all kinds of category"
 
@@ -52,7 +52,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "yongqianvip" => "email@address.com" }
+  s.author             = "yongqianvip"
   # Or just: s.author    = "yongqianvip"
   # s.authors            = { "yongqianvip" => "email@address.com" }
   # s.social_media_url   = "http://twitter.com/yongqianvip"
